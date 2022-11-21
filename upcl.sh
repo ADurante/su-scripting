@@ -6,3 +6,5 @@ sudo apt dist-upgrade
 sudo apt autoremove
 sudo apt autoclean
 sudo apt clean
+
+exit 0
